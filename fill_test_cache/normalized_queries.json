@@ -1,0 +1,1356 @@
+[
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0005301"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0015564"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0100345"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0005799"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0009265"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0018982"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0018328"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0001119"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0005015"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0007186"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0011426"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:154"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "increased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0001475"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:1636"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0004979"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0009061"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0800029"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0011705"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0005361"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:8654"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:8972"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:6524"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:1565"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:154"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:3043"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:79001"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0005575"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Disease"
+            ],
+            "ids": [
+              "MONDO:0009290"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:treats"
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:6605"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ],
+            "ids": [
+              "CHEBI:142437"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ],
+            "ids": [
+              "CHEBI:59173"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ],
+            "ids": [
+              "CHEBI:167574"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "increased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ],
+            "ids": [
+              "CHEBI:167574"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ],
+            "ids": [
+              "CHEBI:34648"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "increased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ],
+            "ids": [
+              "CHEBI:34911"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "increased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  },
+  {
+    "message": {
+      "query_graph": {
+        "nodes": {
+          "ON": {
+            "categories": [
+              "biolink:Gene"
+            ],
+            "ids": [
+              "NCBIGene:3845"
+            ]
+          },
+          "SN": {
+            "categories": [
+              "biolink:ChemicalEntity"
+            ]
+          }
+        },
+        "edges": {
+          "t_edge": {
+            "object": "ON",
+            "subject": "SN",
+            "predicates": [
+              "biolink:affects"
+            ],
+            "qualifier_constraints": [
+              {
+                "qualifier_set": [
+                  {
+                    "qualifier_type_id": "biolink:object_aspect_qualifier",
+                    "qualifier_value": "activity_or_abundance"
+                  },
+                  {
+                    "qualifier_type_id": "biolink:object_direction_qualifier",
+                    "qualifier_value": "decreased"
+                  }
+                ]
+              }
+            ],
+            "knowledge_type": "inferred"
+          }
+        }
+      }
+    }
+  }
+]
